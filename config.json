@@ -1,0 +1,12 @@
+{
+  "server": {
+    "address": ":3000"
+  },
+  "database": {
+    "host": "localhost",
+    "port": "5432",
+    "user": "postgres",
+    "pass": "example-1",
+    "name": "postgres"
+  }
+}
